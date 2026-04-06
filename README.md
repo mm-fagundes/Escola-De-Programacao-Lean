@@ -35,7 +35,7 @@ O modelo de ensino da ELP é baseado nos **5 Princípios Lean**:
 
 ## Documentação
 
-- [Documento de Visão](./docs/Documento_de_Visao_ELP.pdf)
+- [Documento de Visão](./docs/Documento_de_Visao_Escola_Lean_De_Programação.pdf)
 
 ## Status do Projeto
 
