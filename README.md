@@ -36,11 +36,11 @@ O modelo de ensino da ELP é baseado nos **5 Princípios Lean**:
 ## Documentação
 
 - [Documento de Visão](./docs/Vision%20Document/Vision%20Document.pdf)
+- [Estruturação Primeiro Roadmap](./docs/Roadmaps%20Structures/roadmap1.excalidraw)
 
 ## Status do Projeto
 
-> Em fase de conceito e documentação. O desenvolvimento da plataforma está previsto
-para iniciar em breve.
+> Em fase de estruturação e criação do material didático, atualmente desenvolvendo o primeiro Roadmap - Base Fundamental.
 
 
 
